@@ -1,19 +1,22 @@
 {
     "data": [
         {
-            "id": 1,
+            "uuid": "5",
             "name": "Alice",
-            "age": 30
+            "fileName": "name",
+            "type": "pdf"
         },
         {
-            "id": 2,
-            "name": "Bob",
-            "age": 25
+            "uuid": "4",
+            "name": "Alice",
+            "fileName": "name",
+            "type": "pdf"
         },
         {
-            "id": 3,
-            "name": "Charlie",
-            "age": 35
+            "uuid": "3",
+            "name": "Alice",
+            "fileName": "name",
+            "type": "pdf"
         }
     ]
 }
